@@ -1,0 +1,93 @@
+<resources>
+    <string name="app_name">MejiComp</string>
+
+    <string name="parts_name">Nama Parts</string>
+    <string name="description">Deskripsi</string>
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+    <array name="data_name">
+        <item>ASUS ROG Strix Z590-E Gaming ATX Motherboard</item>
+        <item>Lenovo L24i-30 LED Monitor</item>
+        <item>Intel Core i9-11900K</item>
+        <item>AMD Ryzen 9 5900X</item>
+        <item>Gigabyte B550 AORUS PRO ATX Motherboard</item>
+        <item>Corsair Vengeance LPX 32GB DDR4 RAM</item>
+        <item>HyperX Fury RGB 64GB DDR4 RAM</item>
+        <item>MSI GeForce RTX 3080 Gaming X Trio</item>
+        <item>AMD Radeon RX 6700 XT</item>
+        <item>Samsung 980 PRO PCIe 4.0 NVMe SSD 1TB</item>
+        <item>HyperX Cloud II Wireless</item>
+        <item>Western Digital Black 1TB NVMe SSD</item>
+        <item>EVGA SuperNOVA 850 G5 80 Plus Gold 850W PSU</item>
+        <item>Corsair Crystal Series 680X RGB ATX Mid Tower Case</item>
+        <item>NZXT H510i ATX Mid Tower Case</item>
+        <item>ASUS ROG Swift PG279Q 27" LED Monitor</item>
+    </array>
+
+    <array name="data_description">
+        <item>ASUS ROG Strix Z590-E Gaming ATX Motherboard: Feature-rich motherboard designed for gaming enthusiasts with ASUS ROG Strix branding.</item>
+        <item>Lenovo L24i-30 LED Monitor: A high-resolution LED monitor with a sleek design and vibrant display. The Lenovo L24i-30 offers a 23.8-inch Full HD IPS panel, providing stunning visuals and wide viewing angles. With its thin bezels and adjustable stand, its an excellent choice for both work and entertainment.</item>
+        <item>Intel Core i9-11900K: Powerful Intel processor known for its high clock speeds and gaming performance.</item>
+        <item>AMD Ryzen 9 5900X: High-performance processor from AMD for multitasking and gaming.</item>
+        <item>Gigabyte B550 AORUS PRO ATX Motherboard: AORUS motherboard with B550 chipset from Gigabyte, suitable for gaming builds.</item>
+        <item>Corsair Vengeance LPX 32GB DDR4 RAM: Corsair RAM known for its reliability and performance, providing 32GB of memory.</item>
+        <item>HyperX Fury RGB 64GB DDR4 RAM: High-capacity HyperX RAM with RGB lighting for enhanced aesthetics.</item>
+        <item>MSI GeForce RTX 3080 Gaming X Trio: High-end graphics card from MSI, the Gaming X Trio variant, offering excellent performance for gaming and content creation.</item>
+        <item>AMD Radeon RX 6700 XT: AMD graphics card known for its strong performance in gaming and graphics-intensive tasks.</item>
+        <item>Samsung 980 PRO PCIe® 4.0 NVMe® SSD 1TB: High-speed NVMe SSD from Samsung, offering 1TB of storage capacity with PCIe® 4.0 support for fast data transfer speeds.</item>
+        <item>HyperX Cloud II Wireless: Wireless gaming headset from HyperX, known for its comfort, audio quality, and durability.</item>
+        <item>Western Digital Black 1TB NVMe SSD: High-speed NVMe SSD from Western Digital, providing fast storage for the operating system and applications.</item>
+        <item>EVGA SuperNOVA 850 G5, 80 Plus Gold 850W PSU: EVGA power supply with 850W capacity and 80 Plus Gold efficiency for a stable and efficient power delivery.</item>
+        <item>Corsair Crystal Series 680X RGB ATX Mid Tower Case: Stylish Corsair case with RGB lighting and ample space for high-performance components.</item>
+        <item>NZXT H510i ATX Mid Tower Case: Sleek and compact NZXT case with modern design and convenient features.</item>
+        <item>ASUS ROG Swift PG279Q 27" LED Monitor: ASUS gaming monitor with a high refresh rate and G-SYNC support for smooth gaming visuals.</item>
+    </array>
+
+
+    <array name="data_image">
+        <item>@drawable/asus_rog_strix_z590e</item>
+        <item>@drawable/lenovo_l24i_30</item>
+        <item>@drawable/intel_core_i9_11900k</item>
+        <item>@drawable/amd_ryzen_9_5900x</item>
+        <item>@drawable/gigabyte_b550_aorus_pro</item>
+        <item>@drawable/corsair_vengeance_lpx_32gb</item>
+        <item>@drawable/hyperx_fury_rgb_64gb</item>
+        <item>@drawable/msi_rtx_3080_gaming_x_trio</item>
+        <item>@drawable/amd_radeon_rx_6700_xt</item>
+        <item>@drawable/samsung_980_pro_1tb_nvme</item>
+        <item>@drawable/hyperx_cloud_ii_wireless</item>
+        <item>@drawable/wd_black_1tb_nvme</item>
+        <item>@drawable/evga_supernova_850_g5</item>
+        <item>@drawable/corsair_crystal_series_680x</item>
+        <item>@drawable/nzxt_h510i</item>
+        <item>@drawable/asus_rog_swift_pg279q</item>
+    </array>
+
+    <array name="data_price">
+        <item>4.650.000</item>
+        <item>3.100.000</item>
+        <item>7.749.000</item>
+        <item>6.973.000</item>
+        <item>2.325.000</item>
+        <item>1.860.000</item>
+        <item>2.789.000</item>
+        <item>10.849.000</item>
+        <item>6.199.000</item>
+        <item>3.100.000</item>
+        <item>1.199.000</item>
+        <item>2.325.000</item>
+        <item>1.860.000</item>
+        <item>2.789.000</item>
+        <item>1.550.000</item>
+        <item>9.299.000</item>
+    </array>
+
+    <string name="about_name">Sigit Wijonarko</string>
+    <string name="about_email">sigitwijonarko17@gmail.com</string>
+    <string name="about">About</string>
+    <string name="about_image_description">Profile Picture</string>
+    <string name="share">Share</string>
+    <string name="splash_image_description">MejiComp Logo</string>
+    <string name="detail_price"><![CDATA[Price: Rp%s]]></string>
+
+</resources>
